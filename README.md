@@ -1,8 +1,5 @@
 ### Here are some pictures of the web application:
 
-![image](https://user-images.githubusercontent.com/100614635/233979351-604732a6-eb97-4124-a4b9-9a07a22f7f9d.png)
-<!-- ![image](https://raw.githubusercontent.com/MayurNangre/CL_4/main/bda/WhatsApp%20Image%202024-04-23%20at%2017.21.12_879b2ba6.jpg) -->
-
 ![image](https://github.com/MayurNangre/Roxiler_Systems_Challenge/blob/main/assets/img1.png?raw=true)
 
 ![image](https://github.com/MayurNangre/Roxiler_Systems_Challenge/blob/main/assets/img2.png?raw=true)
@@ -11,7 +8,9 @@
 
 ![image](https://github.com/MayurNangre/Roxiler_Systems_Challenge/blob/main/assets/img4.png?raw=true)
 
+## Video Of Project
 
+[Watch the video](https://drive.google.com/file/d/1sYw8nlMzaLYsvddmS7-zNGxC9ZfSbJ65/view?usp=drive_link)
 
 
 # Getting Started with Create React App
