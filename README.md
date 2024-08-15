@@ -7,6 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Home Page](https://raw.githubusercontent.com/MayurNangre/Images_URL/main/Roxiler_Systems/Screenshot%202024-08-15%20081234.png)\
 ![Transactions](https://raw.githubusercontent.com/MayurNangre/Images_URL/main/Roxiler_Systems/Screenshot%202024-08-15%20081315.png)
 
+## If the PDF is hosted externally, you can link to it directly:
+
+[View PDF](https://drive.google.com/file/d/18R5FabzjBVmefk6Z0hsC2UB35zxVo-zi/view)
 
 ## Available Scripts
 
