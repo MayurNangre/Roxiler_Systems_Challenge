@@ -1,15 +1,32 @@
+### Here are some pictures of the web application:
+
+![image](https://user-images.githubusercontent.com/100614635/233979351-604732a6-eb97-4124-a4b9-9a07a22f7f9d.png)
+<!-- ![image](https://raw.githubusercontent.com/MayurNangre/CL_4/main/bda/WhatsApp%20Image%202024-04-23%20at%2017.21.12_879b2ba6.jpg) -->
+
+![image](https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png)
+
+![image](https://user-images.githubusercontent.com/100614635/233979651-69b5dc7f-7c47-404b-9211-dd2a3140bcaa.png)
+
+![image](https://user-images.githubusercontent.com/100614635/233979805-0d1c2381-afb9-4f24-b935-7cef18ccc57f.png)
+
+![image](https://user-images.githubusercontent.com/100614635/233980092-bb4748fd-4199-4d5c-a676-f340ed71c699.png)
+
+![image](https://user-images.githubusercontent.com/100614635/233980287-a0bdf848-7a63-48d3-9f1c-7e7cac717e4c.png)
+
+![image](https://user-images.githubusercontent.com/100614635/233980638-36af0f43-6f38-410c-840a-c3d5ba1ccaee.png)
+
+![image](https://user-images.githubusercontent.com/64485885/234604188-a0ba3e8a-a8fe-4465-afa6-17c34e46848c.png)
+
+![image](https://user-images.githubusercontent.com/100614635/233981364-5124943f-9016-43a5-aa42-3eee4b231430.png)
+
+![image](https://user-images.githubusercontent.com/100614635/233981534-65a6ebb2-3963-4130-8704-db39695f9ac9.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Screenshots
-
-![Home Page](https://raw.githubusercontent.com/MayurNangre/Images_URL/main/Roxiler_Systems/Screenshot%202024-08-15%20081234.png)\
-![Transactions](https://raw.githubusercontent.com/MayurNangre/Images_URL/main/Roxiler_Systems/Screenshot%202024-08-15%20081315.png)
-
-## If the PDF is hosted externally, you can link to it directly:
-
-[View PDF](https://drive.google.com/file/d/18R5FabzjBVmefk6Z0hsC2UB35zxVo-zi/view)
 
 ## Available Scripts
 
