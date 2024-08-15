@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots
+
+![Home Page](https://raw.githubusercontent.com/MayurNangre/Images_URL/main/Roxiler_Systems/Screenshot%202024-08-15%20081234.png)
+![Transactions](https://raw.githubusercontent.com/MayurNangre/Images_URL/main/Roxiler_Systems/Screenshot%202024-08-15%20081315.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
