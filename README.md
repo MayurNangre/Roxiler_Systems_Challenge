@@ -3,23 +3,13 @@
 ![image](https://user-images.githubusercontent.com/100614635/233979351-604732a6-eb97-4124-a4b9-9a07a22f7f9d.png)
 <!-- ![image](https://raw.githubusercontent.com/MayurNangre/CL_4/main/bda/WhatsApp%20Image%202024-04-23%20at%2017.21.12_879b2ba6.jpg) -->
 
-![image](https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png)
+![image](https://github.com/MayurNangre/Roxiler_Systems_Challenge/blob/main/assets/img1.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/100614635/233979651-69b5dc7f-7c47-404b-9211-dd2a3140bcaa.png)
+![image](https://github.com/MayurNangre/Roxiler_Systems_Challenge/blob/main/assets/img2.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/100614635/233979805-0d1c2381-afb9-4f24-b935-7cef18ccc57f.png)
+![image](https://github.com/MayurNangre/Roxiler_Systems_Challenge/blob/main/assets/img3.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/100614635/233980092-bb4748fd-4199-4d5c-a676-f340ed71c699.png)
-
-![image](https://user-images.githubusercontent.com/100614635/233980287-a0bdf848-7a63-48d3-9f1c-7e7cac717e4c.png)
-
-![image](https://user-images.githubusercontent.com/100614635/233980638-36af0f43-6f38-410c-840a-c3d5ba1ccaee.png)
-
-![image](https://user-images.githubusercontent.com/64485885/234604188-a0ba3e8a-a8fe-4465-afa6-17c34e46848c.png)
-
-![image](https://user-images.githubusercontent.com/100614635/233981364-5124943f-9016-43a5-aa42-3eee4b231430.png)
-
-![image](https://user-images.githubusercontent.com/100614635/233981534-65a6ebb2-3963-4130-8704-db39695f9ac9.png)
+![image](https://github.com/MayurNangre/Roxiler_Systems_Challenge/blob/main/assets/img4.png?raw=true)
 
 
 
