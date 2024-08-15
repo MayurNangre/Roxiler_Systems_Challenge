@@ -12,6 +12,9 @@
 
 [Watch the video](https://drive.google.com/file/d/1sYw8nlMzaLYsvddmS7-zNGxC9ZfSbJ65/view?usp=drive_link)
 
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/5aQmnA7EyqQ)
+
+
 
 # Getting Started with Create React App
 
